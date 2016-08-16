@@ -1,0 +1,127 @@
+{
+  "basics": {
+    "name": "Jordan Earls",
+    "label": "",
+    "email": "jordanearls.92@gmail.com",
+    "phone": "(512)-400-8434",
+    "location": {
+      "address": "1742 Taylor St NW",
+      "postalCode": "30318",
+      "city": "Atlanta",
+      "countryCode": "US",
+      "region": "Georgia"
+    },
+  "work": [
+    {
+      "company": "Curateurs",
+      "position": "Web Developer",
+      "website": "curateurs.com",
+      "startDate": "2015-04-01",
+      "endDate": "2016-03-01",
+      "summary": "Responsible for the development of an interactive men fashionwear ecommerce website",
+      "highlights": [
+        "Lead Developer in a 4 member team.",
+        "Built an Ecommerce website with WordPress.",
+        "Modified existing code as needed.",
+        "Assisted in website traffic and performance monitoring.",
+        "Performed activities to optimize websites for search engine optimization.",
+        "Edited and repurposed WordPress site in accordance to customers’ feedback.",
+        "Updated products as appropriate and edited pages as instructed."
+      ]
+    },
+    {
+      "company": "Morehouse College",
+      "position": "Administrative Assistant",
+      "startDate": "2015-08-13",
+      "endDate": "2016-01-13",
+      "summary":"Provided  a  variety  of  administrative  support  duties  for the Computer Science Department Faculty.",
+      "highlights": [
+        "Scheduled and coordinated meetings, and appointments, for supervisors and managers.",
+        "Opened, sorted, and distributed incoming messages and correspondences.",
+        "Purchased and maintained office supply inventories, and being careful to adhere to budgeting practices.",
+        "Greeted visitors and determined to whom and when they could speak with specific individuals."
+      ]
+    },
+    {
+      "company": "Morehouse College",
+      "position": "Research Assistant",
+      "startDate": "2013-06-03",
+      "endDate": "2013-12-31",
+      "summary":"Working with academic members of the project team in order to deliver project outcomes.",
+      "highlights": [
+        "Identifying suitable techniques for the collection and analysis of data.",
+        "Contributing to team decisions about research directions. ",
+        "Ensuring the validity and reliability of data at all times.",
+        "Responsible for some administrative tasks, such as webpage maintenance.",
+        "Producing regular reports for research advisors."
+      ]
+    },
+    {
+      "company": "Five Guys Burger and Fries",
+      "position": "Line Cook / Food Prep",
+      "startDate": "2012-03-01",
+      "endDate": "2012-08-13",
+      "highlights": [
+          "Provided excellent customer service.",
+          "Verified that prepared foods met all standards for safety and quality." ,
+          "Handled currency transactions quickly and accurately." ,
+          "Followed food safety procedures according to company policies and sanitation regulations.",
+          "Maintained food standards during high-volume, fast-paced operations.",
+          "Performed all position responsibilities in neat and timely manner.",
+          "Made damn good burgers."
+      ]
+    },
+    {
+      "company": "Hurricane Harbor / Six Flags Over Texas",
+      "position": "Lifegaurd / Park Services",
+      "startDate": "2008-05-1",
+      "endDate": "2010-07-31",
+      "highlights": [
+        "Hands on experience in administering lifesaving procedures.",
+        "Recognized emergencies and responded immediately.",
+        "Ensured the safety of individuals using pools.",
+        "Responsible for upholding ride safety protocols.",
+        "Pleasantly and courteously interacted with customers.",
+        "Rendered emergency aid to guests who were injured or in distress.",
+        "Maintained pool cleanliness conditions.",
+        "Inspect facility on a daily basis and report unsafe conditions."
+      ]
+    }
+
+  ],
+  "education": [
+    {
+      "institution": "Morehouse College",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2012-08-01",
+      "endDate": "2017-05-07"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Networking",
+      "level": "Master",
+      "keywords": [
+        "DHCP",
+        "Linux"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ]
+}
+}
