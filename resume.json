@@ -10,7 +10,8 @@
       "city": "Atlanta",
       "countryCode": "US",
       "region": "Georgia"
-    },
+    }
+  },
   "work": [
     {
       "company": "Curateurs",
@@ -74,7 +75,7 @@
     {
       "company": "Hurricane Harbor / Six Flags Over Texas",
       "position": "Lifegaurd / Park Services",
-      "startDate": "2008-05-1",
+      "startDate": "2008-05-01",
       "endDate": "2010-07-31",
       "highlights": [
         "Hands on experience in administering lifesaving procedures.",
@@ -123,5 +124,4 @@
       "fluency": "Native speaker"
     }
   ]
-}
 }
